@@ -1,5 +1,5 @@
 # dpl Example with Heroku
-This repo is an example with a very simple node.js app and how to deploy that app to Heroku using [dpl|https://github.com/travis-ci/dpl]to deploy the app. You may have `dpl` on your machine or build a docker image to contain it. Before running `dpl` ensure you have created the app on Heroku either manually or using the API.
+This repo is an example with a very simple node.js app and how to deploy that app to Heroku using [dpl](https://github.com/travis-ci/dpl) to deploy the app. You may have `dpl` on your machine or build a docker image to contain it. Before running `dpl` ensure you have created the app on Heroku either manually or using the API.
 
 ## Creating app on Heroku using API
 ```bash
